@@ -1,0 +1,11 @@
+E:\Code\TodoApi\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.deps.json
+E:\Code\TodoApi\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.runtimeconfig.json
+E:\Code\TodoApi\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.runtimeconfig.dev.json
+E:\Code\TodoApi\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.dll
+E:\Code\TodoApi\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.pdb
+E:\Code\TodoApi\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.csprojResolveAssemblyReference.cache
+E:\Code\TodoApi\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+E:\Code\TodoApi\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.AssemblyInfoInputs.cache
+E:\Code\TodoApi\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.AssemblyInfo.cs
+E:\Code\TodoApi\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.dll
+E:\Code\TodoApi\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.pdb
